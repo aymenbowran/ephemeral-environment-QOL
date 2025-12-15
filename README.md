@@ -2,7 +2,7 @@
 
 > spin up temporary azure environments with auto-destruction. because not everything needs to live forever.
 
-## what is this
+## quick overview of what this is
 
 terraform-based automation for creating temporary, fully-configured azure environments that automatically destroy themselves after a specified TTL (time-to-live).
 
